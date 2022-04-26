@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Mercedes S class",
+      "body": "The Mercedes-Benz S-Class, formerly known as Sonderklasse German for special class, abbreviated as S- Klasse, is a series of full-sized luxury sedans, limousines and armored sedans produced by the German automaker Mercedes-Benz, a division of German company Daimler AG. The S-Class is the designation for top-of-the-line Mercedes-Benz models and was officially introduced in 1972 with the W116, and has remained in use ever since. The S-Class is the flagship vehicle for Mercedes-Benz. The S  Class has debuted many of the company's latest innovations, including drivetrain technologies, interior features, and safety systems such as the first seatbelt pretensioners. The S-Class has ranked as the world's best - selling luxury sedan. In automotive terms, Sonderklasse refers to a specially outfitted car. Although used colloquially for decades, citation needed following its official application in 1972, six generations of officially named S ",
+      "founder": "Karl Benz"
+    },
+    {
+      "id": 2,
+      "title": "BMW 7 Series",
+      "body": "The BMW 7 Series is a full-size luxury sedan manufactured and marketed by the German automaker BMW since 1977.[1] It is the successor to the BMW E3  sedan and is currently in its sixth generation. The 7 Series is BMW's flagship car and is only available in a sedan bodystyle (including long wheelbase and limousine models). It traditionally introduces technologies and exterior design themes before other models in BMW's lineup.The first generation of the 7 Series was powered by straight- 6 petrol engines, and following generations have been powered by inline - 4, straight - 6, V8 and V12 engines with both natural aspiration and turbocharging.Since 1995, diesel engines have been optional in the 7 Series.",
+      "founder": "Gustav Otto"
+    },
+    {
+      "id": 3,
+      "title": "Audi A8",
+      "body": "The Audi A8 is a full-size luxury sedan manufactured and marketed by the German automaker Audi since 1994. Succeeding the Audi V8, and now in its fourth generation, the A8 has been offered with both front- or permanent all-wheel drive—and in short- and long-wheelbase variants. The first two generations employed the Volkswagen Group D platform, with the current generation deriving from the MLB platform. After the original model's 1994 release, Audi released the second generation in late 2002, the third in late 2009, and the fourth and current iteration in 2017.",
+      "founder": "August Horch"
+    },
+    {
+      "title": "Toyota",
+      "founder": "Akio Toyoda",
+      "body": "Lorem Toyota 10000",
+      "id": 18
+    },
+    {
+      "title": "Ford",
+      "founder": "Henry Ford",
+      "body": "Ford Motor co was created by Henry Ford......",
+      "id": 20
+    }
+  ]
+}
